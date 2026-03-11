@@ -1,4 +1,4 @@
-// Day6 commit tracking
+// Day_6
 #include<iostream>
 #include<vector>
 using namespace std;
