@@ -1,3 +1,8 @@
+// Day 6 - Container With Most Water
+// Problem: LeetCode 11
+// Approach: Two Pointer Technique
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 #include<iostream>
 #include<vector>
 using namespace std;
